@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5a6c92a2-46b6-42f1-bfec-cdb8bf850220" name="Default" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="webphukiendienthoai" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="PhpServers">
+    <servers>
+      <server host="localhost" id="22abb6e3-4e9d-43b2-923f-4bd9b62dbd15" name="webphukiendienthoai" port="66342" />
+    </servers>
+  </component>
+  <component name="PhpWebServerValidation" path_to_validation_script="C:\Users\Admin\Desktop\webphukiendienthoai\webphukiendienthoai" selected_validation_type="LOCAL" web_path_to_validation_script="http://localhost:66342" />
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP" />
+  <component name="ProjectId" id="1VJq1KSzK087eLNTsXSa4VEelq9" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="web.server" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\webphukiendienthoai" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\webphukiendienthoai\modules\right" />
+      <recent name="C:\xampp\htdocs\webphukiendienthoai\admincp\modules\gallery\uploads" />
+      <recent name="C:\xampp\htdocs\webphukiendienthoai\imgs" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JavaScript Debug.1.html">
+    <configuration name="1.html" type="JavascriptDebugType" nameIsGenerated="true" uri="http://localhost:8080/webphukiendienthoai/1.html">
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="PhpWebAppRunConfigurationType" factoryName="PHP Web Application" server_name="webphukiendienthoai" start_url="/wephukiendienthoai">
+      <method v="2" />
+    </configuration>
+    <configuration name="webphukiendienthoai" type="PhpWebAppRunConfigurationType" factoryName="PHP Web Application" server_name="webphukiendienthoai" start_url="/webphukiendienthoai">
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5a6c92a2-46b6-42f1-bfec-cdb8bf850220" name="Default" comment="" />
+      <created>1494478055310</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1494478055310</updated>
+      <workItem from="1494478056813" duration="619000" />
+      <workItem from="1494478695774" duration="229000" />
+      <workItem from="1494478979016" duration="226000" />
+      <workItem from="1494904330775" duration="106000" />
+      <workItem from="1495608560823" duration="3985000" />
+      <workItem from="1495679633538" duration="1732000" />
+      <workItem from="1495766676638" duration="593000" />
+      <workItem from="1495773700090" duration="1183000" />
+      <workItem from="1495854234539" duration="28000" />
+      <workItem from="1501490390020" duration="617000" />
+      <workItem from="1501829788194" duration="54000" />
+      <workItem from="1503053764326" duration="335000" />
+      <workItem from="1503760838601" duration="434000" />
+      <workItem from="1504850868518" duration="175000" />
+      <workItem from="1504852685890" duration="320000" />
+      <workItem from="1504858445141" duration="34000" />
+      <workItem from="1505102687416" duration="747000" />
+      <workItem from="1505115640556" duration="1002000" />
+      <workItem from="1505365040343" duration="406000" />
+      <workItem from="1576981331515" duration="12000" />
+      <workItem from="1576981497459" duration="1329000" />
+      <workItem from="1576997591785" duration="207000" />
+      <workItem from="1576998886328" duration="5145000" />
+      <workItem from="1577015392798" duration="7756000" />
+      <workItem from="1577023277967" duration="45000" />
+      <workItem from="1577023337995" duration="663000" />
+      <workItem from="1577024036790" duration="233000" />
+      <workItem from="1577024284510" duration="2758000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="507" y="21" key="#PHP" timestamp="1576997753505">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="507" y="21" key="#PHP/0.0.1600.860@0.0.1600.860" timestamp="1576997753505" />
+    <state x="380" y="86" key="#Servers" timestamp="1576997735175">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="380" y="86" key="#Servers/0.0.1600.860@0.0.1600.860" timestamp="1576997735175" />
+    <state x="392" y="89" key="#Web_Browsers" timestamp="1576997782234">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="392" y="89" key="#Web_Browsers/0.0.1600.860@0.0.1600.860" timestamp="1576997782234" />
+    <state x="254" y="86" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1576997799207">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="254" y="86" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1600.860@0.0.1600.860" timestamp="1576997799207" />
+    <state x="468" y="254" key="#com.jetbrains.php.debug.validation.PhpWebServerValidationDialog#" timestamp="1576997797297">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="468" y="254" key="#com.jetbrains.php.debug.validation.PhpWebServerValidationDialog#/0.0.1600.860@0.0.1600.860" timestamp="1576997797297" />
+    <state x="580" y="186" key="FileChooserDialogImpl" timestamp="1576997619666">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="580" y="186" key="FileChooserDialogImpl/0.0.1600.860@0.0.1600.860" timestamp="1576997619666" />
+    <state x="635" y="354" key="NewPhpFileDialog" timestamp="1577026719142">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="635" y="354" key="NewPhpFileDialog/0.0.1600.860@0.0.1600.860" timestamp="1577026719142" />
+    <state width="254" height="198" key="RunAnythingAction_Filter_Popup" timestamp="1576997426485">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="254" height="198" key="RunAnythingAction_Filter_Popup/0.0.1600.860@0.0.1600.860" timestamp="1576997426485" />
+    <state x="0" y="0" key="com.intellij.ide.util.TipDialog" timestamp="1577024285345">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="0" y="0" key="com.intellij.ide.util.TipDialog/0.0.1600.860@0.0.1600.860" timestamp="1577024285345" />
+    <state x="810" y="56" width="606" height="804" key="find.popup" timestamp="1577023975868">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="810" y="56" width="606" height="804" key="find.popup/0.0.1600.860@0.0.1600.860" timestamp="1577023975868" />
+    <state x="620" y="214" key="run.anything.popup" timestamp="1576997426485">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="620" y="214" key="run.anything.popup/0.0.1600.860@0.0.1600.860" timestamp="1576997426485" />
+  </component>
+</project>
